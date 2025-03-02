@@ -15,10 +15,14 @@ This project focuses on optimizing stock investment portfolios using Python. It 
 ## 🛠️ Technologies Used  
 - **Python**  
 - **NumPy & Pandas** – Data handling and statistical calculations  
-- **SciPy** – Portfolio optimization  
+- **SciPy** – Portfolio optimization: Minimize a function using Sequential Least Squares Programming
 - **Plotly** – Interactive visualizations  
 
 ## 🔧 Usage  
 1. Install required libraries:  
    ```bash
    pip install numpy pandas pandas_datareader scipy plotly
+## Future Development Ideas ( Ongoing )
+- **🎨 Streamlit Integration** for an interactive user interface.
+- **📊 Advanced Statistical Analysis**  to refine risk-return assessments.
+- **📈 Robust Optimization Techniques**  for improved portfolio stability.
